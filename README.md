@@ -1,3 +1,18 @@
+# AI-Based Public Health Competency Recommender
+
+An AI-powered platform that assesses public-health competencies, identifies skill gaps, and recommends personalized competency development pathways.
+
+![Status](https://img.shields.io/badge/status-working%20prototype-4CAF50)
+![React](https://img.shields.io/badge/React-18.x-61DAFB)
+![Vite](https://img.shields.io/badge/Vite-5.x-646CFF)
+![License](https://img.shields.io/badge/license-academic%2Feducational-lightgrey)
+
+## Project Summary
+
+This project is a responsive web application designed to help public-health learners assess their current competencies, compare them with target career requirements, identify skill gaps, and build a personalized learning roadmap. The platform combines a competency assessment, career-aware recommendation logic, and dashboard-driven progress tracking in a single browser-based interface.
+
+---
+
 # 1. Project Title
 
 # AI-Based Public Health Competency Recommender
